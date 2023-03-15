@@ -1,0 +1,13 @@
+.home>img {
+    width: 100%;
+    height: auto;
+}
+.home {
+    position: absolute;
+    top: 0vh;
+    left: 0vw;
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+    z-index: 2;
+}
